@@ -28,7 +28,7 @@
 
 ### 🌐 Linkedin</b></summary>
 <a href="https://www.linkedin.com/in/pabloerlissilva/">
-<img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" />
+<img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile"/>
 </a>
 
 #
